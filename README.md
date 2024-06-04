@@ -1,1 +1,1 @@
-![Alt text](https://pin.it/2ahuyjUor "Hero image")
+![Alt text](https://pin.it/2ahuyjUor)

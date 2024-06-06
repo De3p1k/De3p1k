@@ -1,4 +1,4 @@
-*_If it's ment to be, it'll be_*
+*_If it's meant to be, it'll be_*
 -----
 ![image alt <](https://i.pinimg.com/originals/c4/a9/07/c4a907267cdda481d80c1317f2069328.jpg)
 ```python

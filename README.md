@@ -4,7 +4,7 @@
 ```python
 from introduction import self
 def Akanksha-Karri():
-  Pronouns = "He | Him" 
+  Pronouns = "She | Her" 
   Code = [Python, C, Bash]
   Major = {Cybersecurity:"Institute of Aeronautical Engineering"}
   Me = ["CyberSec enthusiast", "Linux(Arch btw!)", "Docker", "Ubuntu Server", "Self hosting", "Tech", "Spotify"]

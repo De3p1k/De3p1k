@@ -3,7 +3,7 @@
 ![image alt <](https://i.pinimg.com/originals/c4/a9/07/c4a907267cdda481d80c1317f2069328.jpg)
 ```python
 from introduction import self
-def Akanksha Karri():
+def Akanksha-Karri():
   Pronouns = "He | Him" 
   Code = [Python, C, Bash]
   Major = {Cybersecurity:"Institute of Aeronautical Engineering"}

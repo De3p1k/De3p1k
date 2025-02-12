@@ -3,13 +3,13 @@
 ![image alt <](https://i.pinimg.com/originals/c4/a9/07/c4a907267cdda481d80c1317f2069328.jpg)
 ```python
 from introduction import self
-def Akanksha-Karri():
-  Pronouns = "She | Her" 
+def Deepak():
+  Pronouns = "He | Him" 
   Code = [Python, C, Bash]
   Major = {Cybersecurity:"Institute of Aeronautical Engineering"}
   Me = ["CyberSec enthusiast", "Linux(Arch btw!)", "Docker", "Ubuntu Server", "Self hosting", "Tech", "Spotify"]
-  <BlogUrl = "blog.deepakd.com">
-  <SearchEngine = "search.deepakd.com">
+  BlogUrl = "blog.deepakd.com"
+  SearchEngine = "search.deepakd.com"
   try:
     print("Working on a project/Learning Cybersecurity")
   except:
